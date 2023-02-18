@@ -1,0 +1,22 @@
+{
+  "name": "yzim",
+  "version": "0.0.1",
+  "description": "yz im sdk",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yz-im/yz-sdk-ts.git"
+  },
+  "author": "terry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yz-im/yz-sdk-ts/issues"
+  },
+  "homepage": "https://github.com/yz-im/yz-sdk-ts#readme",
+  "devDependencies": {
+    "ts-proto": "^1.139.0"
+  }
+}
